@@ -19,7 +19,7 @@ The ESP32:
 - Drives the transistor using a **limited PWM signal**
 - Streams data over serial for monitoring and tuning
 
-![System overview](images/im01.png)
+![System overview](images/im01.jpeg)
 
 ---
 
@@ -41,7 +41,7 @@ The ESP32:
 
 Thermal contact between the sensor and the transistor is critical for accurate control:
 
-![Thermistor coupling](images/im03.png)
+![Thermistor coupling](images/im03.jpeg)
 
 ---
 
@@ -81,7 +81,7 @@ Features:
 - Live adjustment of PID gains via sliders
 - Serial data logging to CSV for offline analysis
 
-![Live monitoring](images/im02.png)
+![Live monitoring](images/im02.jpeg)
 
 ---
 
