@@ -115,7 +115,9 @@ The project includes a custom PCB designed specifically for this laboratory setu
 ## 🎥 Demo
 The following GIF shows the system operating in real time, including temperature response and control action:
 
-![System demo](images/im04.gif)
+<p align="center">
+  <img src="images/im04.gif" alt="System demo" width="500">
+</p>
 
 ---
 
@@ -129,20 +131,7 @@ The following GIF shows the system operating in real time, including temperature
     │ └── CONTROL_TEMPERATURA.pdf
     └── README.md
 
-    
----
-
-## 📄 Technical Report
-A full academic report describing the system, methodology, and results is available here:
-
-📄 `docs/CONTROL_TEMPERATURA.pdf`
-
-This document includes:
-- Theoretical background
-- Detailed implementation
-- Experimental results
-- Conclusions and discussion
-
+  
 ---
 
 ## 🚀 Project Status
@@ -160,6 +149,5 @@ This document includes:
 - Closed-loop current monitoring
 
 ---
-
 ## 📜 License
-To be defined.
+
