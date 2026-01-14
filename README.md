@@ -104,7 +104,10 @@ The project includes a custom PCB designed specifically for this laboratory setu
 
 - Rendered PCB view:
   
-  ![PCB render](images/im05.png)
+<p align="center">
+  <img src="images/im05.png" alt="PCB render">
+</p>
+
 
 - PCB layout:
   
