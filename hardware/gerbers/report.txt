@@ -1,0 +1,12 @@
+Plotted to 'C:\DOCUMENTOS\14.- Proyectos\Electronica\pocket-heat-lab\hardware\gerbers\pocket-heat-lab-F_Cu.gbr'.
+Plotted to 'C:\DOCUMENTOS\14.- Proyectos\Electronica\pocket-heat-lab\hardware\gerbers\pocket-heat-lab-B_Cu.gbr'.
+Plotted to 'C:\DOCUMENTOS\14.- Proyectos\Electronica\pocket-heat-lab\hardware\gerbers\pocket-heat-lab-F_Paste.gbr'.
+Plotted to 'C:\DOCUMENTOS\14.- Proyectos\Electronica\pocket-heat-lab\hardware\gerbers\pocket-heat-lab-B_Paste.gbr'.
+Plotted to 'C:\DOCUMENTOS\14.- Proyectos\Electronica\pocket-heat-lab\hardware\gerbers\pocket-heat-lab-F_Silkscreen.gbr'.
+Plotted to 'C:\DOCUMENTOS\14.- Proyectos\Electronica\pocket-heat-lab\hardware\gerbers\pocket-heat-lab-B_Silkscreen.gbr'.
+Plotted to 'C:\DOCUMENTOS\14.- Proyectos\Electronica\pocket-heat-lab\hardware\gerbers\pocket-heat-lab-F_Mask.gbr'.
+Plotted to 'C:\DOCUMENTOS\14.- Proyectos\Electronica\pocket-heat-lab\hardware\gerbers\pocket-heat-lab-B_Mask.gbr'.
+Plotted to 'C:\DOCUMENTOS\14.- Proyectos\Electronica\pocket-heat-lab\hardware\gerbers\pocket-heat-lab-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\DOCUMENTOS\14.- Proyectos\Electronica\pocket-heat-lab\hardware\gerbers\pocket-heat-lab-job.gbrjob'.
+Info: Done.
+Info: Done.
