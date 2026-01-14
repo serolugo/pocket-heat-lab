@@ -153,4 +153,5 @@ The following GIF shows the system operating in real time, including temperature
 
 ---
 ## 📜 License
+MIT License
 
